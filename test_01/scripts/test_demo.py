@@ -1,3 +1,5 @@
+import os
+print(os.getcwd())
 class Testdemo:
     def test_01(self):
         assert 1
